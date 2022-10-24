@@ -1,0 +1,32 @@
+[class="title1"] 
+{
+    text-align: center;
+    font-size: 2cm;
+    color: antiquewhite;
+    }
+    [class="about"]
+    {
+        text-align: center;
+    font-size: 1cm;
+    color: antiquewhite;
+    }
+    [class="img1"]
+    {
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    }
+    [class="menu"]
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+   [class="adress"]
+    {
+        font-size: 1cm;
+        text-align: center;
+        color: antiquewhite;
+    }
+body {background-color: rgb(22, 13, 13);}

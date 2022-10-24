@@ -7,7 +7,7 @@
     #description
     {
         text-align: center;
-    font-size: 35px;
+    font-size: 15px;
     color: antiquewhite;
     }
     [class="img1"]
@@ -29,4 +29,7 @@
         text-align: center;
         color: antiquewhite;
     }
-body {background-color: rgb(170, 43, 43);}
+body 
+{
+    background-color: rgb(22, 13, 13);
+}

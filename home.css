@@ -1,31 +1,37 @@
 [class="title1"] 
 {
     text-align: center;
-    font-size: 2cm;
+    font-size: 60px;
     color: antiquewhite;
     }
     #description
     {
-        text-align: center;
-    font-size: 60px;
+        text-align: justify;
+    font-size: 35px;
     color: antiquewhite;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     }
-    [class="img1"]
+    #img1
     {
         display: block;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
     }
-    [class="menu"]
+    #menu
     {
-        display: block;
         margin-left: auto;
         margin-right: auto;
+        display: block;
+        cursor: grab;
+        width: fit-content;
     }
-   [class="adress"]
+   #adress
     {
-        font-size: 1cm;
+        font-size: 20px;
         text-align: center;
         color: antiquewhite;
     }

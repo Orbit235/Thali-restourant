@@ -4,34 +4,68 @@
     font-size: 60px;
     color: antiquewhite;
     }
-    #description
+    h2
+    {
+        font-size: 45px;
+        color: antiquewhite;
+        text-align: center;
+    }
+      #img1
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+        border-radius: 25px;
+        border-style: ridge;
+        border-color: antiquewhite;
+    }
+    h3
+    {
+        font-size: 40px;
+        color: antiquewhite;
+        text-align: center;
+    }
+      #description
     {
         text-align: justify;
-    font-size: 35px;
+    font-size: 25px;
     color: antiquewhite;
-    width: 70%;
+    width: 60%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     }
-    #img1
+    button
     {
+        background-color: antiquewhite;
+        color: black;
+        padding: 65px 95px;
         display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
-    }
-    #menu
-    {
         margin-left: auto;
         margin-right: auto;
-        display: block;
-        cursor: grab;
-        width: fit-content;
+        margin-bottom: 75px;
+        font-size: 45px;
+        font-weight: bold;
+        border-radius: 35px;
+        transition-duration: 0,5s;
+        cursor: pointer;
+        box-shadow: 0 12px 12px rgb(131, 130, 129);
+    }
+    button:hover
+    {
+        background-color: white;
+        color: black;  
+    }
+    button:active
+    {
+        background-color: antiquewhite;
+        transform: translateY(4px);
+        box-shadow: 0 5px #666;
     }
    #adress
     {
-        font-size: 20px;
+        font-size: 25px;
         text-align: center;
         color: antiquewhite;
     }

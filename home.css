@@ -1,14 +1,17 @@
-[class="title1"] 
+h1
 {
     text-align: center;
-    font-size: 60px;
     color: antiquewhite;
-    }
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
     h2
     {
         font-size: 45px;
         color: antiquewhite;
         text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
       #img1
     {
@@ -25,6 +28,7 @@
         font-size: 40px;
         color: antiquewhite;
         text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
       #description
     {
@@ -35,6 +39,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
     button
     {
@@ -51,6 +56,7 @@
         transition-duration: 0,5s;
         cursor: pointer;
         box-shadow: 0 12px 12px rgb(131, 130, 129);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
     button:hover
     {
@@ -68,6 +74,7 @@
         font-size: 25px;
         text-align: center;
         color: antiquewhite;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 body 
 {
